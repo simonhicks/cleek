@@ -1,4 +1,4 @@
-# clonk
+# cleek
 
 A Clojure dsl for concatenative programming. The idea was inspired by Factjor and is very heavily influenced by the Factor language. Having said that, there are some pretty major conceptual differences which are intended to solve some of the irritations I felt when using Factor for anything more than trivial.
 
