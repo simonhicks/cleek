@@ -1,6 +1,6 @@
-(ns clonk.core-test
+(ns cleek.core-test
   (:use clojure.test
-        clonk.core))
+        cleek.core))
 
 (deftest a-test
   (testing "FIXME, I fail."

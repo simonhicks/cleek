@@ -1,4 +1,4 @@
-(ns clonk.core
+(ns cleek.core
   (:refer-clojure :exclude [+ - / * comp drop]))
 
 ; TODO
